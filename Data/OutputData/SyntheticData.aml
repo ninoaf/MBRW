@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<attributeset default_source="Artificial_Kdd_cup_9k_users_5k_items_TRAIN.dat">
+
+  <attribute
+    name         = "user_id"
+    sourcecol    = "1"
+    valuetype    = "integer"/>
+
+  <attribute
+    name         = "item_id"
+    sourcecol    = "2"
+    valuetype    = "integer"/>
+
+</attributeset>
