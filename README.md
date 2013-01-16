@@ -22,5 +22,5 @@ the Free Software Foundation. See the GNU General Public License
 for more details: http://www.gnu.org/licenses/.
 
 Contact:
-Nino Antulov-Fantulin, <nino.naf@gmail.com>,
-Matko Bošnjak, <matko.bosnjak@gmail.com>
+Nino Antulov-Fantulin, <nino.antulov@irb.hr>,
+Matko Bošnjak, <matko.bosnjak@irb.hr>
