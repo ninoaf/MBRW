@@ -1,4 +1,4 @@
-Runninf code in Matlab:
+Run code in Matlab:
 
 Put input data in /Data/InputData/ directory.
 
