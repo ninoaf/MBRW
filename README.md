@@ -23,4 +23,4 @@ for more details: http://www.gnu.org/licenses/.
 
 Contact:
 Nino Antulov-Fantulin, <nino.antulov@irb.hr>,
-Matko Boanjak, <matko.bosnjak@irb.hr>
+Matko Bosnjak, <matko.bosnjak@irb.hr>
