@@ -1,4 +1,4 @@
-MBRW_synthetic_clickstream_generator
+MBRW
 ====================================
 Memory Biased Random Walk (MBRW) model is taking real clickstream data in sparse AML format
 and generating synthetic clickstream data that conform to statistical properties of the real
